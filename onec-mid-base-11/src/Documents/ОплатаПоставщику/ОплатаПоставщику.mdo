@@ -150,8 +150,8 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="e9565d9f-459d-40ae-866a-b34adc1152e7">
-    <name>КонтактноеЛицо</name>
+  <attributes uuid="cd5994aa-410b-4fa9-a578-2674d185d50b">
+    <name>Git_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
       <value>Контактное лицо</value>
